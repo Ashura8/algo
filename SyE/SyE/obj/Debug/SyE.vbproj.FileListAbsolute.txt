@@ -1,0 +1,65 @@
+C:\Users\MARIO\Desktop\SyE\SyE\bin\Debug\SyE.exe.config
+C:\Users\MARIO\Desktop\SyE\SyE\bin\Debug\SyE.exe
+C:\Users\MARIO\Desktop\SyE\SyE\bin\Debug\SyE.pdb
+C:\Users\MARIO\Desktop\SyE\SyE\bin\Debug\SyE.xml
+C:\Users\MARIO\Desktop\SyE\SyE\obj\Debug\SyE.vbproj.AssemblyReference.cache
+C:\Users\MARIO\Desktop\SyE\SyE\obj\Debug\SyE.vbproj.SuggestedBindingRedirects.cache
+C:\Users\MARIO\Desktop\SyE\SyE\obj\Debug\SyE.Form1.resources
+C:\Users\MARIO\Desktop\SyE\SyE\obj\Debug\SyE.Resources.resources
+C:\Users\MARIO\Desktop\SyE\SyE\obj\Debug\SyE.vbproj.GenerateResource.cache
+C:\Users\MARIO\Desktop\SyE\SyE\obj\Debug\SyE.vbproj.CoreCompileInputs.cache
+C:\Users\MARIO\Desktop\SyE\SyE\obj\Debug\SyE.exe
+C:\Users\MARIO\Desktop\SyE\SyE\obj\Debug\SyE.xml
+C:\Users\MARIO\Desktop\SyE\SyE\obj\Debug\SyE.pdb
+M:\Almajovita\SyE\SyE\bin\Debug\SyE.exe.config
+M:\Almajovita\SyE\SyE\bin\Debug\SyE.exe
+M:\Almajovita\SyE\SyE\bin\Debug\SyE.pdb
+M:\Almajovita\SyE\SyE\bin\Debug\SyE.xml
+M:\Almajovita\SyE\SyE\obj\Debug\SyE.vbproj.AssemblyReference.cache
+M:\Almajovita\SyE\SyE\obj\Debug\SyE.vbproj.SuggestedBindingRedirects.cache
+M:\Almajovita\SyE\SyE\obj\Debug\SyE.Form1.resources
+M:\Almajovita\SyE\SyE\obj\Debug\SyE.Resources.resources
+M:\Almajovita\SyE\SyE\obj\Debug\SyE.vbproj.GenerateResource.cache
+M:\Almajovita\SyE\SyE\obj\Debug\SyE.vbproj.CoreCompileInputs.cache
+M:\Almajovita\SyE\SyE\obj\Debug\SyE.exe
+M:\Almajovita\SyE\SyE\obj\Debug\SyE.xml
+M:\Almajovita\SyE\SyE\obj\Debug\SyE.pdb
+D:\Almajovita\SyE\SyE\obj\Debug\SyE.vbprojAssemblyReference.cache
+D:\Almajovita\SyE\SyE\obj\Debug\SyE.Form1.resources
+D:\Almajovita\SyE\SyE\obj\Debug\SyE.Resources.resources
+D:\Almajovita\SyE\SyE\obj\Debug\SyE.vbproj.GenerateResource.cache
+D:\Almajovita\SyE\SyE\obj\Debug\SyE.vbproj.CoreCompileInputs.cache
+D:\Almajovita\SyE\SyE\obj\Debug\SyE.xml
+D:\Almajovita\SyE\SyE\obj\Debug\SyE.pdb
+F:\Almajovita\SyE\SyE\bin\Debug\SyE.exe.config
+F:\Almajovita\SyE\SyE\bin\Debug\SyE.exe
+F:\Almajovita\SyE\SyE\bin\Debug\SyE.pdb
+F:\Almajovita\SyE\SyE\bin\Debug\SyE.xml
+F:\Almajovita\SyE\SyE\obj\Debug\SyE.vbprojAssemblyReference.cache
+F:\Almajovita\SyE\SyE\obj\Debug\SyE.Form1.resources
+F:\Almajovita\SyE\SyE\obj\Debug\SyE.Resources.resources
+F:\Almajovita\SyE\SyE\obj\Debug\SyE.vbproj.GenerateResource.cache
+F:\Almajovita\SyE\SyE\obj\Debug\SyE.vbproj.CoreCompileInputs.cache
+F:\Almajovita\SyE\SyE\obj\Debug\SyE.exe
+F:\Almajovita\SyE\SyE\obj\Debug\SyE.xml
+F:\Almajovita\SyE\SyE\obj\Debug\SyE.pdb
+D:\Almajovita\SyE\SyE\bin\Debug\SyE.exe.config
+D:\Almajovita\SyE\SyE\bin\Debug\SyE.exe
+D:\Almajovita\SyE\SyE\obj\Debug\SyE.exe
+D:\Almajovita\SyE\SyE\obj\Debug\SyE.vbproj.AssemblyReference.cache
+C:\Users\Interactiva21\Desktop\SyE.exe.config
+C:\Users\Interactiva21\Desktop\SyE.exe
+C:\Users\Interactiva21\Desktop\SyE\SyE\bin\Debug\SyE.exe.config
+C:\Users\Interactiva21\Desktop\SyE\SyE\bin\Debug\SyE.exe
+C:\Users\LABORATORIO-B 15\Desktop\SyE\SyE\bin\Debug\SyE.exe.config
+C:\Users\LABORATORIO-B 15\Desktop\SyE\SyE\bin\Debug\SyE.exe
+C:\Users\LABORATORIO-B 15\Desktop\SyE\SyE\bin\Debug\SyE.pdb
+C:\Users\LABORATORIO-B 15\Desktop\SyE\SyE\bin\Debug\SyE.xml
+C:\Users\LABORATORIO-B 15\Desktop\SyE\SyE\obj\Debug\SyE.vbproj.AssemblyReference.cache
+C:\Users\LABORATORIO-B 15\Desktop\SyE\SyE\obj\Debug\SyE.Form1.resources
+C:\Users\LABORATORIO-B 15\Desktop\SyE\SyE\obj\Debug\SyE.Resources.resources
+C:\Users\LABORATORIO-B 15\Desktop\SyE\SyE\obj\Debug\SyE.vbproj.GenerateResource.cache
+C:\Users\LABORATORIO-B 15\Desktop\SyE\SyE\obj\Debug\SyE.vbproj.CoreCompileInputs.cache
+C:\Users\LABORATORIO-B 15\Desktop\SyE\SyE\obj\Debug\SyE.exe
+C:\Users\LABORATORIO-B 15\Desktop\SyE\SyE\obj\Debug\SyE.xml
+C:\Users\LABORATORIO-B 15\Desktop\SyE\SyE\obj\Debug\SyE.pdb
